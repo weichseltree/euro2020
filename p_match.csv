@@ -1,0 +1,552 @@
+"Hungary", "North Macedonia", 54.3, 39.0, 29.5, 31.5
+"Hungary", "Finland", 55.2, 39.6, 29.9, 30.5
+"Hungary", "Slovakia", 41.6, 27.8, 29.8, 42.4
+"Hungary", "Ukraine", 47.8, 33.9, 28.4, 37.7
+"Hungary", "Czech Republic", 44.3, 30.1, 29.7, 40.2
+"Hungary", "Russia", 44.4, 30.4, 29.5, 40.1
+"Hungary", "Scotland", 37.8, 24.9, 28.8, 46.3
+"Hungary", "Wales", 40.1, 26.8, 29.0, 44.2
+"Hungary", "Turkey", 41.0, 28.1, 28.0, 44.0
+"Hungary", "Sweden", 36.0, 23.7, 27.8, 48.4
+"Hungary", "Poland", 38.0, 24.8, 29.4, 45.8
+"Hungary", "Austria", 39.2, 26.5, 28.1, 45.5
+"Hungary", "Switzerland", 31.3, 19.9, 27.2, 52.9
+"Hungary", "Croatia", 25.5, 15.9, 24.6, 59.5
+"Hungary", "Denmark", 24.3, 14.8, 24.7, 60.5
+"Hungary", "Netherlands", 18.4, 11.4, 20.3, 68.4
+"Hungary", "Italy", 15.9, 9.9, 18.2, 71.9
+"Hungary", "Belgium", 18.5, 11.6, 19.8, 68.6
+"Hungary", "Germany", 14.7, 9.0, 17.6, 73.5
+"Hungary", "Portugal", 16.2, 10.1, 18.3, 71.6
+"Hungary", "Spain", 14.6, 9.0, 17.5, 73.6
+"Hungary", "England", 15.1, 9.5, 17.2, 73.3
+"Hungary", "France", 13.2, 8.1, 16.4, 75.5
+"North Macedonia", "Hungary", 45.7, 31.5, 29.5, 39.0
+"North Macedonia", "Finland", 51.5, 36.2, 30.2, 33.5
+"North Macedonia", "Slovakia", 39.4, 25.4, 30.7, 43.9
+"North Macedonia", "Ukraine", 42.8, 28.9, 29.5, 41.5
+"North Macedonia", "Czech Republic", 43.9, 30.0, 29.5, 40.6
+"North Macedonia", "Russia", 40.5, 26.8, 29.7, 43.5
+"North Macedonia", "Scotland", 33.6, 21.5, 28.1, 50.4
+"North Macedonia", "Wales", 37.6, 24.3, 29.7, 46.0
+"North Macedonia", "Turkey", 35.2, 23.4, 27.1, 49.5
+"North Macedonia", "Sweden", 31.5, 19.1, 29.5, 51.5
+"North Macedonia", "Poland", 32.4, 20.6, 27.8, 51.5
+"North Macedonia", "Austria", 25.3, 15.7, 24.8, 59.5
+"North Macedonia", "Switzerland", 25.8, 15.6, 26.1, 58.4
+"North Macedonia", "Croatia", 26.8, 16.8, 25.1, 58.1
+"North Macedonia", "Denmark", 17.8, 10.1, 22.1, 67.8
+"North Macedonia", "Netherlands", 15.7, 9.2, 19.3, 71.5
+"North Macedonia", "Italy", 15.0, 9.2, 17.9, 73.0
+"North Macedonia", "Belgium", 17.0, 10.5, 19.1, 70.3
+"North Macedonia", "Germany", 14.3, 8.6, 17.7, 73.7
+"North Macedonia", "Portugal", 17.2, 10.8, 18.7, 70.4
+"North Macedonia", "Spain", 16.4, 10.3, 18.3, 71.4
+"North Macedonia", "England", 16.3, 10.3, 18.0, 71.7
+"North Macedonia", "France", 13.7, 8.3, 17.0, 74.7
+"Finland", "Hungary", 44.8, 30.5, 29.9, 39.6
+"Finland", "North Macedonia", 48.5, 33.5, 30.2, 36.2
+"Finland", "Slovakia", 37.8, 23.9, 30.9, 45.2
+"Finland", "Ukraine", 44.6, 31.0, 28.4, 40.5
+"Finland", "Czech Republic", 45.4, 31.0, 29.9, 39.1
+"Finland", "Russia", 44.6, 30.9, 28.7, 40.4
+"Finland", "Scotland", 36.0, 23.9, 27.4, 48.6
+"Finland", "Wales", 41.7, 27.5, 30.4, 42.1
+"Finland", "Turkey", 36.5, 24.2, 27.9, 47.9
+"Finland", "Sweden", 36.8, 23.8, 29.1, 47.0
+"Finland", "Poland", 31.3, 20.3, 26.3, 53.4
+"Finland", "Austria", 35.2, 23.4, 27.3, 49.4
+"Finland", "Switzerland", 28.4, 17.9, 26.0, 56.1
+"Finland", "Croatia", 28.3, 17.7, 26.1, 56.1
+"Finland", "Denmark", 23.8, 14.5, 24.4, 61.1
+"Finland", "Netherlands", 19.4, 11.8, 21.4, 66.8
+"Finland", "Italy", 17.8, 11.1, 19.5, 69.4
+"Finland", "Belgium", 19.0, 12.1, 19.9, 68.1
+"Finland", "Germany", 16.5, 10.2, 18.6, 71.1
+"Finland", "Portugal", 17.3, 10.8, 19.1, 70.1
+"Finland", "Spain", 17.1, 10.7, 18.8, 70.5
+"Finland", "England", 17.7, 11.4, 18.5, 70.1
+"Finland", "France", 15.7, 9.8, 17.9, 72.3
+"Slovakia", "Hungary", 58.4, 42.4, 29.8, 27.8
+"Slovakia", "North Macedonia", 60.6, 43.9, 30.7, 25.4
+"Slovakia", "Finland", 62.2, 45.2, 30.9, 23.9
+"Slovakia", "Ukraine", 50.9, 36.7, 28.2, 35.1
+"Slovakia", "Czech Republic", 52.8, 37.5, 30.0, 32.5
+"Slovakia", "Russia", 51.1, 36.5, 28.9, 34.6
+"Slovakia", "Scotland", 45.5, 31.1, 30.0, 38.9
+"Slovakia", "Wales", 48.6, 33.8, 30.0, 36.2
+"Slovakia", "Turkey", 46.8, 32.0, 30.3, 37.6
+"Slovakia", "Sweden", 44.4, 30.3, 29.7, 40.0
+"Slovakia", "Poland", 42.4, 28.8, 29.1, 42.1
+"Slovakia", "Austria", 45.8, 31.4, 29.9, 38.7
+"Slovakia", "Switzerland", 38.1, 24.5, 30.2, 45.3
+"Slovakia", "Croatia", 37.8, 24.0, 30.7, 45.3
+"Slovakia", "Denmark", 35.1, 21.3, 31.5, 47.2
+"Slovakia", "Netherlands", 28.9, 18.2, 26.4, 55.4
+"Slovakia", "Italy", 21.8, 13.8, 21.8, 64.4
+"Slovakia", "Belgium", 22.3, 14.2, 21.8, 64.0
+"Slovakia", "Germany", 19.0, 12.2, 19.5, 68.3
+"Slovakia", "Portugal", 20.9, 13.2, 21.1, 65.7
+"Slovakia", "Spain", 16.6, 10.3, 18.8, 70.9
+"Slovakia", "England", 18.3, 11.8, 18.8, 69.4
+"Slovakia", "France", 17.4, 11.0, 18.7, 70.3
+"Ukraine", "Hungary", 52.2, 37.7, 28.4, 33.9
+"Ukraine", "North Macedonia", 57.2, 41.5, 29.5, 28.9
+"Ukraine", "Finland", 55.4, 40.5, 28.4, 31.0
+"Ukraine", "Slovakia", 49.1, 35.1, 28.2, 36.7
+"Ukraine", "Czech Republic", 46.3, 32.7, 28.2, 39.1
+"Ukraine", "Russia", 53.0, 38.2, 28.9, 32.9
+"Ukraine", "Scotland", 39.3, 26.3, 28.7, 45.0
+"Ukraine", "Wales", 46.4, 32.6, 28.5, 38.9
+"Ukraine", "Turkey", 47.4, 33.5, 28.5, 38.1
+"Ukraine", "Sweden", 45.0, 31.8, 27.7, 40.5
+"Ukraine", "Poland", 46.0, 32.5, 28.1, 39.5
+"Ukraine", "Austria", 41.2, 28.5, 27.6, 44.0
+"Ukraine", "Switzerland", 38.2, 25.9, 27.3, 46.8
+"Ukraine", "Croatia", 35.2, 23.5, 27.0, 49.5
+"Ukraine", "Denmark", 29.2, 18.4, 26.5, 55.1
+"Ukraine", "Netherlands", 26.8, 16.0, 27.2, 56.8
+"Ukraine", "Italy", 22.2, 13.3, 23.8, 62.9
+"Ukraine", "Belgium", 24.8, 15.0, 25.4, 59.6
+"Ukraine", "Germany", 18.8, 11.5, 20.8, 67.7
+"Ukraine", "Portugal", 22.1, 12.9, 24.7, 62.4
+"Ukraine", "Spain", 15.7, 9.2, 19.3, 71.5
+"Ukraine", "England", 16.5, 10.1, 18.8, 71.0
+"Ukraine", "France", 16.8, 9.7, 20.6, 69.7
+"Czech Republic", "Hungary", 55.7, 40.2, 29.7, 30.1
+"Czech Republic", "North Macedonia", 56.1, 40.6, 29.5, 30.0
+"Czech Republic", "Finland", 54.6, 39.1, 29.9, 31.0
+"Czech Republic", "Slovakia", 47.2, 32.5, 30.0, 37.5
+"Czech Republic", "Ukraine", 53.7, 39.1, 28.2, 32.7
+"Czech Republic", "Russia", 54.4, 38.8, 30.1, 31.1
+"Czech Republic", "Scotland", 43.9, 29.8, 29.6, 40.5
+"Czech Republic", "Wales", 47.9, 32.9, 30.7, 36.5
+"Czech Republic", "Turkey", 44.4, 30.6, 29.1, 40.3
+"Czech Republic", "Sweden", 46.8, 32.1, 30.2, 37.7
+"Czech Republic", "Poland", 42.3, 28.2, 30.1, 41.7
+"Czech Republic", "Austria", 41.8, 27.6, 30.5, 41.9
+"Czech Republic", "Switzerland", 38.1, 24.7, 29.9, 45.4
+"Czech Republic", "Croatia", 34.6, 21.7, 29.8, 48.6
+"Czech Republic", "Denmark", 29.3, 17.7, 28.3, 54.0
+"Czech Republic", "Netherlands", 32.2, 19.6, 29.7, 50.7
+"Czech Republic", "Italy", 27.3, 17.0, 25.9, 57.1
+"Czech Republic", "Belgium", 29.3, 18.3, 26.8, 54.9
+"Czech Republic", "Germany", 19.2, 11.9, 20.5, 67.6
+"Czech Republic", "Portugal", 24.2, 14.5, 25.3, 60.2
+"Czech Republic", "Spain", 21.2, 13.5, 21.1, 65.4
+"Czech Republic", "England", 18.6, 11.9, 19.2, 68.9
+"Czech Republic", "France", 19.3, 12.1, 20.3, 67.6
+"Russia", "Hungary", 55.6, 40.1, 29.5, 30.4
+"Russia", "North Macedonia", 59.5, 43.5, 29.7, 26.8
+"Russia", "Finland", 55.4, 40.4, 28.7, 30.9
+"Russia", "Slovakia", 48.9, 34.6, 28.9, 36.5
+"Russia", "Ukraine", 47.0, 32.9, 28.9, 38.2
+"Russia", "Czech Republic", 45.6, 31.1, 30.1, 38.8
+"Russia", "Scotland", 43.3, 29.9, 28.5, 41.6
+"Russia", "Wales", 49.4, 35.0, 28.8, 36.1
+"Russia", "Turkey", 44.7, 30.7, 29.5, 39.9
+"Russia", "Sweden", 46.2, 32.0, 29.2, 38.7
+"Russia", "Poland", 42.0, 28.1, 29.8, 42.1
+"Russia", "Austria", 40.5, 27.2, 28.8, 43.9
+"Russia", "Switzerland", 36.6, 23.4, 29.6, 46.9
+"Russia", "Croatia", 37.3, 24.3, 29.1, 46.6
+"Russia", "Denmark", 34.7, 22.4, 28.2, 49.4
+"Russia", "Netherlands", 30.5, 18.9, 28.1, 53.1
+"Russia", "Italy", 27.0, 16.6, 26.1, 57.3
+"Russia", "Belgium", 27.3, 17.3, 25.1, 57.5
+"Russia", "Germany", 19.2, 11.7, 21.2, 67.2
+"Russia", "Portugal", 27.1, 16.8, 25.9, 57.3
+"Russia", "Spain", 16.3, 9.8, 19.2, 70.9
+"Russia", "England", 15.9, 9.8, 18.3, 71.8
+"Russia", "France", 17.3, 10.4, 20.2, 69.5
+"Scotland", "Hungary", 62.2, 46.3, 28.8, 24.9
+"Scotland", "North Macedonia", 66.4, 50.4, 28.1, 21.5
+"Scotland", "Finland", 64.0, 48.6, 27.4, 23.9
+"Scotland", "Slovakia", 54.5, 38.9, 30.0, 31.1
+"Scotland", "Ukraine", 60.7, 45.0, 28.7, 26.3
+"Scotland", "Czech Republic", 56.1, 40.5, 29.6, 29.8
+"Scotland", "Russia", 56.7, 41.6, 28.5, 29.9
+"Scotland", "Wales", 54.7, 39.0, 30.1, 30.8
+"Scotland", "Turkey", 47.7, 33.4, 29.2, 37.4
+"Scotland", "Sweden", 50.3, 35.5, 29.5, 34.9
+"Scotland", "Poland", 48.4, 34.0, 29.2, 36.8
+"Scotland", "Austria", 48.7, 33.9, 29.9, 36.2
+"Scotland", "Switzerland", 47.0, 32.7, 29.4, 37.9
+"Scotland", "Croatia", 34.9, 21.9, 29.8, 48.3
+"Scotland", "Denmark", 35.5, 22.1, 30.5, 47.4
+"Scotland", "Netherlands", 30.3, 18.5, 28.6, 53.0
+"Scotland", "Italy", 27.6, 17.3, 25.8, 56.9
+"Scotland", "Belgium", 28.0, 17.6, 25.6, 56.7
+"Scotland", "Germany", 24.2, 15.1, 23.7, 61.2
+"Scotland", "Portugal", 27.1, 16.9, 25.7, 57.4
+"Scotland", "Spain", 23.2, 14.6, 22.8, 62.6
+"Scotland", "England", 19.5, 12.4, 20.1, 67.5
+"Scotland", "France", 22.9, 14.2, 23.2, 62.6
+"Wales", "Hungary", 59.9, 44.2, 29.0, 26.8
+"Wales", "North Macedonia", 62.4, 46.0, 29.7, 24.3
+"Wales", "Finland", 58.3, 42.1, 30.4, 27.5
+"Wales", "Slovakia", 51.4, 36.2, 30.0, 33.8
+"Wales", "Ukraine", 53.6, 38.9, 28.5, 32.6
+"Wales", "Czech Republic", 52.1, 36.5, 30.7, 32.9
+"Wales", "Russia", 50.6, 36.1, 28.8, 35.0
+"Wales", "Scotland", 45.3, 30.8, 30.1, 39.0
+"Wales", "Turkey", 48.5, 33.8, 29.8, 36.4
+"Wales", "Sweden", 46.4, 31.3, 31.2, 37.5
+"Wales", "Poland", 41.7, 28.0, 29.6, 42.5
+"Wales", "Austria", 44.4, 30.2, 29.8, 40.0
+"Wales", "Switzerland", 42.8, 28.7, 30.2, 41.2
+"Wales", "Croatia", 39.8, 25.9, 30.5, 43.6
+"Wales", "Denmark", 38.5, 24.4, 31.2, 44.3
+"Wales", "Netherlands", 38.7, 25.1, 30.0, 44.9
+"Wales", "Italy", 28.1, 18.1, 24.9, 57.0
+"Wales", "Belgium", 29.2, 18.7, 25.9, 55.4
+"Wales", "Germany", 22.9, 14.7, 22.0, 63.3
+"Wales", "Portugal", 27.0, 17.5, 24.0, 58.5
+"Wales", "Spain", 20.3, 13.0, 20.6, 66.5
+"Wales", "England", 18.3, 11.9, 18.7, 69.4
+"Wales", "France", 18.0, 11.5, 19.0, 69.5
+"Turkey", "Hungary", 59.0, 44.0, 28.0, 28.1
+"Turkey", "North Macedonia", 64.8, 49.5, 27.1, 23.4
+"Turkey", "Finland", 63.5, 47.9, 27.9, 24.2
+"Turkey", "Slovakia", 53.2, 37.6, 30.3, 32.0
+"Turkey", "Ukraine", 52.6, 38.1, 28.5, 33.5
+"Turkey", "Czech Republic", 55.6, 40.3, 29.1, 30.6
+"Turkey", "Russia", 55.3, 39.9, 29.5, 30.7
+"Turkey", "Scotland", 52.3, 37.4, 29.2, 33.4
+"Turkey", "Wales", 51.5, 36.4, 29.8, 33.8
+"Turkey", "Sweden", 47.1, 32.6, 29.8, 37.7
+"Turkey", "Poland", 47.5, 33.0, 29.6, 37.4
+"Turkey", "Austria", 44.7, 31.0, 28.8, 40.2
+"Turkey", "Switzerland", 41.2, 27.7, 29.2, 43.1
+"Turkey", "Croatia", 43.9, 30.3, 28.8, 40.9
+"Turkey", "Denmark", 38.3, 25.5, 28.4, 46.1
+"Turkey", "Netherlands", 31.8, 19.5, 29.1, 51.4
+"Turkey", "Italy", 28.0, 17.5, 26.0, 56.5
+"Turkey", "Belgium", 26.0, 15.3, 27.1, 57.6
+"Turkey", "Germany", 26.8, 16.8, 25.2, 58.0
+"Turkey", "Portugal", 31.2, 18.8, 29.5, 51.7
+"Turkey", "Spain", 26.6, 16.4, 25.8, 57.8
+"Turkey", "England", 20.0, 11.6, 23.0, 65.3
+"Turkey", "France", 24.5, 14.4, 26.1, 59.6
+"Sweden", "Hungary", 64.0, 48.4, 27.8, 23.7
+"Sweden", "North Macedonia", 68.5, 51.5, 29.5, 19.1
+"Sweden", "Finland", 63.2, 47.0, 29.1, 23.8
+"Sweden", "Slovakia", 55.6, 40.0, 29.7, 30.3
+"Sweden", "Ukraine", 55.0, 40.5, 27.7, 31.8
+"Sweden", "Czech Republic", 53.2, 37.7, 30.2, 32.1
+"Sweden", "Russia", 53.8, 38.7, 29.2, 32.0
+"Sweden", "Scotland", 49.7, 34.9, 29.5, 35.5
+"Sweden", "Wales", 53.6, 37.5, 31.2, 31.3
+"Sweden", "Turkey", 52.9, 37.7, 29.8, 32.6
+"Sweden", "Poland", 45.1, 30.7, 30.0, 39.3
+"Sweden", "Austria", 47.0, 32.2, 30.3, 37.5
+"Sweden", "Switzerland", 46.1, 30.7, 31.8, 37.5
+"Sweden", "Croatia", 43.1, 29.6, 28.7, 41.7
+"Sweden", "Denmark", 40.4, 26.8, 29.7, 43.5
+"Sweden", "Netherlands", 42.7, 28.1, 31.2, 40.8
+"Sweden", "Italy", 34.4, 22.7, 27.1, 50.2
+"Sweden", "Belgium", 31.6, 20.0, 27.6, 52.4
+"Sweden", "Germany", 27.1, 17.4, 24.4, 58.1
+"Sweden", "Portugal", 33.7, 21.5, 28.5, 50.1
+"Sweden", "Spain", 27.0, 17.4, 24.3, 58.3
+"Sweden", "England", 21.0, 13.6, 20.5, 65.9
+"Sweden", "France", 23.1, 14.4, 23.0, 62.6
+"Poland", "Hungary", 62.0, 45.8, 29.4, 24.8
+"Poland", "North Macedonia", 67.6, 51.5, 27.8, 20.6
+"Poland", "Finland", 68.7, 53.4, 26.3, 20.3
+"Poland", "Slovakia", 57.6, 42.1, 29.1, 28.8
+"Poland", "Ukraine", 54.0, 39.5, 28.1, 32.5
+"Poland", "Czech Republic", 57.7, 41.7, 30.1, 28.2
+"Poland", "Russia", 58.0, 42.1, 29.8, 28.1
+"Poland", "Scotland", 51.6, 36.8, 29.2, 34.0
+"Poland", "Wales", 58.3, 42.5, 29.6, 28.0
+"Poland", "Turkey", 52.5, 37.4, 29.6, 33.0
+"Poland", "Sweden", 54.9, 39.3, 30.0, 30.7
+"Poland", "Austria", 49.2, 33.8, 30.9, 35.3
+"Poland", "Switzerland", 47.4, 32.4, 30.6, 37.0
+"Poland", "Croatia", 47.1, 32.8, 29.3, 37.9
+"Poland", "Denmark", 39.1, 26.0, 29.0, 45.1
+"Poland", "Netherlands", 39.5, 26.1, 29.4, 44.5
+"Poland", "Italy", 33.2, 22.0, 26.3, 51.7
+"Poland", "Belgium", 32.2, 20.7, 27.3, 52.0
+"Poland", "Germany", 27.9, 18.1, 24.5, 57.4
+"Poland", "Portugal", 31.3, 20.1, 26.7, 53.2
+"Poland", "Spain", 29.1, 18.8, 25.2, 56.0
+"Poland", "England", 22.3, 14.5, 21.0, 64.4
+"Poland", "France", 24.5, 15.6, 23.3, 61.1
+"Austria", "Hungary", 60.8, 45.5, 28.1, 26.5
+"Austria", "North Macedonia", 74.7, 59.5, 24.8, 15.7
+"Austria", "Finland", 64.8, 49.4, 27.3, 23.4
+"Austria", "Slovakia", 54.2, 38.7, 29.9, 31.4
+"Austria", "Ukraine", 58.8, 44.0, 27.6, 28.5
+"Austria", "Czech Republic", 58.2, 41.9, 30.5, 27.6
+"Austria", "Russia", 59.5, 43.9, 28.8, 27.2
+"Austria", "Scotland", 51.3, 36.2, 29.9, 33.9
+"Austria", "Wales", 55.6, 40.0, 29.8, 30.2
+"Austria", "Turkey", 55.3, 40.2, 28.8, 31.0
+"Austria", "Sweden", 53.0, 37.5, 30.3, 32.2
+"Austria", "Poland", 50.8, 35.3, 30.9, 33.8
+"Austria", "Switzerland", 49.3, 34.5, 29.8, 35.8
+"Austria", "Croatia", 43.6, 29.8, 29.1, 41.0
+"Austria", "Denmark", 39.9, 26.8, 28.7, 44.5
+"Austria", "Netherlands", 37.6, 24.3, 29.8, 45.9
+"Austria", "Italy", 33.3, 22.1, 26.4, 51.6
+"Austria", "Belgium", 31.5, 20.0, 27.6, 52.5
+"Austria", "Germany", 31.4, 20.7, 25.6, 53.7
+"Austria", "Portugal", 29.7, 18.5, 27.4, 54.1
+"Austria", "Spain", 27.1, 17.2, 24.8, 58.0
+"Austria", "England", 24.7, 16.0, 22.7, 61.2
+"Austria", "France", 26.7, 16.5, 25.8, 57.8
+"Switzerland", "Hungary", 68.7, 52.9, 27.2, 19.9
+"Switzerland", "North Macedonia", 74.2, 58.4, 26.1, 15.6
+"Switzerland", "Finland", 71.6, 56.1, 26.0, 17.9
+"Switzerland", "Slovakia", 61.9, 45.3, 30.2, 24.5
+"Switzerland", "Ukraine", 61.8, 46.8, 27.3, 25.9
+"Switzerland", "Czech Republic", 61.9, 45.4, 29.9, 24.7
+"Switzerland", "Russia", 63.4, 46.9, 29.6, 23.4
+"Switzerland", "Scotland", 53.0, 37.9, 29.4, 32.7
+"Switzerland", "Wales", 57.2, 41.2, 30.2, 28.7
+"Switzerland", "Turkey", 58.8, 43.1, 29.2, 27.7
+"Switzerland", "Sweden", 53.9, 37.5, 31.8, 30.7
+"Switzerland", "Poland", 52.6, 37.0, 30.6, 32.4
+"Switzerland", "Austria", 50.7, 35.8, 29.8, 34.5
+"Switzerland", "Croatia", 47.4, 32.7, 30.1, 37.2
+"Switzerland", "Denmark", 43.2, 29.4, 29.2, 41.4
+"Switzerland", "Netherlands", 41.4, 27.0, 30.9, 42.0
+"Switzerland", "Italy", 37.0, 24.9, 27.4, 47.7
+"Switzerland", "Belgium", 36.1, 23.7, 28.1, 48.2
+"Switzerland", "Germany", 35.0, 22.7, 28.1, 49.2
+"Switzerland", "Portugal", 37.1, 24.2, 28.9, 46.9
+"Switzerland", "Spain", 34.7, 22.9, 27.2, 49.9
+"Switzerland", "England", 27.3, 18.0, 23.6, 58.5
+"Switzerland", "France", 27.5, 17.3, 25.5, 57.2
+"Croatia", "Hungary", 74.5, 59.5, 24.6, 15.9
+"Croatia", "North Macedonia", 73.2, 58.1, 25.1, 16.8
+"Croatia", "Finland", 71.7, 56.1, 26.1, 17.7
+"Croatia", "Slovakia", 62.2, 45.3, 30.7, 24.0
+"Croatia", "Ukraine", 64.8, 49.5, 27.0, 23.5
+"Croatia", "Czech Republic", 65.4, 48.6, 29.8, 21.7
+"Croatia", "Russia", 62.7, 46.6, 29.1, 24.3
+"Croatia", "Scotland", 65.1, 48.3, 29.8, 21.9
+"Croatia", "Wales", 60.2, 43.6, 30.5, 25.9
+"Croatia", "Turkey", 56.1, 40.9, 28.8, 30.3
+"Croatia", "Sweden", 56.9, 41.7, 28.7, 29.6
+"Croatia", "Poland", 52.9, 37.9, 29.3, 32.8
+"Croatia", "Austria", 56.4, 41.0, 29.1, 29.8
+"Croatia", "Switzerland", 52.6, 37.2, 30.1, 32.7
+"Croatia", "Denmark", 51.9, 37.0, 29.4, 33.7
+"Croatia", "Netherlands", 45.7, 31.9, 28.5, 39.5
+"Croatia", "Italy", 40.3, 27.5, 27.9, 44.6
+"Croatia", "Belgium", 39.0, 26.0, 28.6, 45.4
+"Croatia", "Germany", 36.4, 24.5, 27.0, 48.5
+"Croatia", "Portugal", 37.8, 24.1, 30.4, 45.5
+"Croatia", "Spain", 36.8, 24.9, 27.0, 48.1
+"Croatia", "England", 34.0, 22.9, 26.0, 51.1
+"Croatia", "France", 34.0, 22.1, 27.5, 50.4
+"Denmark", "Hungary", 75.7, 60.5, 24.7, 14.8
+"Denmark", "North Macedonia", 82.2, 67.8, 22.1, 10.1
+"Denmark", "Finland", 76.2, 61.1, 24.4, 14.5
+"Denmark", "Slovakia", 64.9, 47.2, 31.5, 21.3
+"Denmark", "Ukraine", 70.8, 55.1, 26.5, 18.4
+"Denmark", "Czech Republic", 70.7, 54.0, 28.3, 17.7
+"Denmark", "Russia", 65.3, 49.4, 28.2, 22.4
+"Denmark", "Scotland", 64.5, 47.4, 30.5, 22.1
+"Denmark", "Wales", 61.5, 44.3, 31.2, 24.4
+"Denmark", "Turkey", 61.7, 46.1, 28.4, 25.5
+"Denmark", "Sweden", 59.6, 43.5, 29.7, 26.8
+"Denmark", "Poland", 60.9, 45.1, 29.0, 26.0
+"Denmark", "Austria", 60.1, 44.5, 28.7, 26.8
+"Denmark", "Switzerland", 56.8, 41.4, 29.2, 29.4
+"Denmark", "Croatia", 48.1, 33.7, 29.4, 37.0
+"Denmark", "Netherlands", 49.8, 34.6, 30.4, 35.0
+"Denmark", "Italy", 42.1, 29.2, 27.7, 43.1
+"Denmark", "Belgium", 42.7, 28.8, 29.5, 41.7
+"Denmark", "Germany", 41.4, 28.3, 28.2, 43.4
+"Denmark", "Portugal", 41.4, 26.9, 31.1, 42.0
+"Denmark", "Spain", 38.8, 26.2, 27.9, 45.9
+"Denmark", "England", 35.1, 23.7, 26.3, 50.0
+"Denmark", "France", 39.0, 25.5, 29.7, 44.8
+"Netherlands", "Hungary", 81.6, 68.4, 20.3, 11.4
+"Netherlands", "North Macedonia", 84.3, 71.5, 19.3, 9.2
+"Netherlands", "Finland", 80.6, 66.8, 21.4, 11.8
+"Netherlands", "Slovakia", 71.1, 55.4, 26.4, 18.2
+"Netherlands", "Ukraine", 73.2, 56.8, 27.2, 16.0
+"Netherlands", "Czech Republic", 67.8, 50.7, 29.7, 19.6
+"Netherlands", "Russia", 69.5, 53.1, 28.1, 18.9
+"Netherlands", "Scotland", 69.7, 53.0, 28.6, 18.5
+"Netherlands", "Wales", 61.3, 44.9, 30.0, 25.1
+"Netherlands", "Turkey", 68.2, 51.4, 29.1, 19.5
+"Netherlands", "Sweden", 57.3, 40.8, 31.2, 28.1
+"Netherlands", "Poland", 60.5, 44.5, 29.4, 26.1
+"Netherlands", "Austria", 62.4, 45.9, 29.8, 24.3
+"Netherlands", "Switzerland", 58.6, 42.0, 30.9, 27.0
+"Netherlands", "Croatia", 54.3, 39.5, 28.5, 31.9
+"Netherlands", "Denmark", 50.2, 35.0, 30.4, 34.6
+"Netherlands", "Italy", 48.9, 34.4, 29.2, 36.3
+"Netherlands", "Belgium", 46.5, 32.4, 29.1, 38.6
+"Netherlands", "Germany", 47.1, 32.9, 29.1, 38.0
+"Netherlands", "Portugal", 42.1, 28.4, 29.4, 42.2
+"Netherlands", "Spain", 41.3, 28.3, 28.1, 43.6
+"Netherlands", "England", 37.0, 24.9, 27.3, 47.8
+"Netherlands", "France", 41.4, 27.6, 29.7, 42.6
+"Italy", "Hungary", 84.1, 71.9, 18.2, 9.9
+"Italy", "North Macedonia", 85.0, 73.0, 17.9, 9.2
+"Italy", "Finland", 82.2, 69.4, 19.5, 11.1
+"Italy", "Slovakia", 78.2, 64.4, 21.8, 13.8
+"Italy", "Ukraine", 77.8, 62.9, 23.8, 13.3
+"Italy", "Czech Republic", 72.7, 57.1, 25.9, 17.0
+"Italy", "Russia", 73.0, 57.3, 26.1, 16.6
+"Italy", "Scotland", 72.4, 56.9, 25.8, 17.3
+"Italy", "Wales", 71.9, 57.0, 24.9, 18.1
+"Italy", "Turkey", 72.0, 56.5, 26.0, 17.5
+"Italy", "Sweden", 65.6, 50.2, 27.1, 22.7
+"Italy", "Poland", 66.8, 51.7, 26.3, 22.0
+"Italy", "Austria", 66.7, 51.6, 26.4, 22.1
+"Italy", "Switzerland", 63.0, 47.7, 27.4, 24.9
+"Italy", "Croatia", 59.7, 44.6, 27.9, 27.5
+"Italy", "Denmark", 57.9, 43.1, 27.7, 29.2
+"Italy", "Netherlands", 51.1, 36.3, 29.2, 34.4
+"Italy", "Belgium", 51.6, 37.7, 27.4, 34.9
+"Italy", "Germany", 45.6, 30.9, 30.5, 38.6
+"Italy", "Portugal", 45.2, 31.2, 29.1, 39.7
+"Italy", "Spain", 43.3, 28.7, 31.0, 40.3
+"Italy", "England", 42.0, 28.1, 29.9, 42.1
+"Italy", "France", 40.1, 26.6, 29.4, 44.0
+"Belgium", "Hungary", 81.5, 68.6, 19.8, 11.6
+"Belgium", "North Macedonia", 83.0, 70.3, 19.1, 10.5
+"Belgium", "Finland", 81.0, 68.1, 19.9, 12.1
+"Belgium", "Slovakia", 77.7, 64.0, 21.8, 14.2
+"Belgium", "Ukraine", 75.2, 59.6, 25.4, 15.0
+"Belgium", "Czech Republic", 70.7, 54.9, 26.8, 18.3
+"Belgium", "Russia", 72.7, 57.5, 25.1, 17.3
+"Belgium", "Scotland", 72.0, 56.7, 25.6, 17.6
+"Belgium", "Wales", 70.8, 55.4, 25.9, 18.7
+"Belgium", "Turkey", 74.0, 57.6, 27.1, 15.3
+"Belgium", "Sweden", 68.4, 52.4, 27.6, 20.0
+"Belgium", "Poland", 67.8, 52.0, 27.3, 20.7
+"Belgium", "Austria", 68.5, 52.5, 27.6, 20.0
+"Belgium", "Switzerland", 63.9, 48.2, 28.1, 23.7
+"Belgium", "Croatia", 61.0, 45.4, 28.6, 26.0
+"Belgium", "Denmark", 57.3, 41.7, 29.5, 28.8
+"Belgium", "Netherlands", 53.5, 38.6, 29.1, 32.4
+"Belgium", "Italy", 48.4, 34.9, 27.4, 37.7
+"Belgium", "Germany", 44.9, 31.5, 27.9, 40.5
+"Belgium", "Portugal", 41.2, 27.7, 29.1, 43.2
+"Belgium", "Spain", 44.4, 31.0, 28.1, 40.9
+"Belgium", "England", 43.0, 30.0, 27.6, 42.4
+"Belgium", "France", 44.5, 30.7, 28.8, 40.4
+"Germany", "Hungary", 85.3, 73.5, 17.6, 9.0
+"Germany", "North Macedonia", 85.7, 73.7, 17.7, 8.6
+"Germany", "Finland", 83.5, 71.1, 18.6, 10.2
+"Germany", "Slovakia", 81.0, 68.3, 19.5, 12.2
+"Germany", "Ukraine", 81.2, 67.7, 20.8, 11.5
+"Germany", "Czech Republic", 80.8, 67.6, 20.5, 11.9
+"Germany", "Russia", 80.8, 67.2, 21.2, 11.7
+"Germany", "Scotland", 75.8, 61.2, 23.7, 15.1
+"Germany", "Wales", 77.1, 63.3, 22.0, 14.7
+"Germany", "Turkey", 73.2, 58.0, 25.2, 16.8
+"Germany", "Sweden", 72.9, 58.1, 24.4, 17.4
+"Germany", "Poland", 72.1, 57.4, 24.5, 18.1
+"Germany", "Austria", 68.6, 53.7, 25.6, 20.7
+"Germany", "Switzerland", 65.0, 49.2, 28.1, 22.7
+"Germany", "Croatia", 63.6, 48.5, 27.0, 24.5
+"Germany", "Denmark", 58.6, 43.4, 28.2, 28.3
+"Germany", "Netherlands", 52.9, 38.0, 29.1, 32.9
+"Germany", "Italy", 54.4, 38.6, 30.5, 30.9
+"Germany", "Belgium", 55.1, 40.5, 27.9, 31.5
+"Germany", "Portugal", 49.8, 35.0, 29.5, 35.4
+"Germany", "Spain", 48.0, 33.3, 30.0, 36.8
+"Germany", "England", 46.5, 32.2, 29.6, 38.2
+"Germany", "France", 43.7, 29.5, 29.9, 40.6
+"Portugal", "Hungary", 83.8, 71.6, 18.3, 10.1
+"Portugal", "North Macedonia", 82.8, 70.4, 18.7, 10.8
+"Portugal", "Finland", 82.7, 70.1, 19.1, 10.8
+"Portugal", "Slovakia", 79.1, 65.7, 21.1, 13.2
+"Portugal", "Ukraine", 77.9, 62.4, 24.7, 12.9
+"Portugal", "Czech Republic", 75.8, 60.2, 25.3, 14.5
+"Portugal", "Russia", 72.9, 57.3, 25.9, 16.8
+"Portugal", "Scotland", 72.9, 57.4, 25.7, 16.9
+"Portugal", "Wales", 73.0, 58.5, 24.0, 17.5
+"Portugal", "Turkey", 68.8, 51.7, 29.5, 18.8
+"Portugal", "Sweden", 66.3, 50.1, 28.5, 21.5
+"Portugal", "Poland", 68.7, 53.2, 26.7, 20.1
+"Portugal", "Austria", 70.3, 54.1, 27.4, 18.5
+"Portugal", "Switzerland", 62.9, 46.9, 28.9, 24.2
+"Portugal", "Croatia", 62.2, 45.5, 30.4, 24.1
+"Portugal", "Denmark", 58.6, 42.0, 31.1, 26.9
+"Portugal", "Netherlands", 57.9, 42.2, 29.4, 28.4
+"Portugal", "Italy", 54.8, 39.7, 29.1, 31.2
+"Portugal", "Belgium", 58.8, 43.2, 29.1, 27.7
+"Portugal", "Germany", 50.2, 35.4, 29.5, 35.0
+"Portugal", "Spain", 48.0, 33.7, 29.0, 37.3
+"Portugal", "England", 45.8, 32.6, 27.3, 40.0
+"Portugal", "France", 48.3, 33.6, 29.8, 36.6
+"Spain", "Hungary", 85.4, 73.6, 17.5, 9.0
+"Spain", "North Macedonia", 83.6, 71.4, 18.3, 10.3
+"Spain", "Finland", 82.9, 70.5, 18.8, 10.7
+"Spain", "Slovakia", 83.4, 70.9, 18.8, 10.3
+"Spain", "Ukraine", 84.3, 71.5, 19.3, 9.2
+"Spain", "Czech Republic", 78.8, 65.4, 21.1, 13.5
+"Spain", "Russia", 83.7, 70.9, 19.2, 9.8
+"Spain", "Scotland", 76.8, 62.6, 22.8, 14.6
+"Spain", "Wales", 79.7, 66.5, 20.6, 13.0
+"Spain", "Turkey", 73.4, 57.8, 25.8, 16.4
+"Spain", "Sweden", 73.0, 58.3, 24.3, 17.4
+"Spain", "Poland", 70.9, 56.0, 25.2, 18.8
+"Spain", "Austria", 72.9, 58.0, 24.8, 17.2
+"Spain", "Switzerland", 65.3, 49.9, 27.2, 22.9
+"Spain", "Croatia", 63.2, 48.1, 27.0, 24.9
+"Spain", "Denmark", 61.2, 45.9, 27.9, 26.2
+"Spain", "Netherlands", 58.7, 43.6, 28.1, 28.3
+"Spain", "Italy", 56.7, 40.3, 31.0, 28.7
+"Spain", "Belgium", 55.6, 40.9, 28.1, 31.0
+"Spain", "Germany", 52.0, 36.8, 30.0, 33.3
+"Spain", "Portugal", 52.0, 37.3, 29.0, 33.7
+"Spain", "England", 47.3, 32.9, 29.5, 37.7
+"Spain", "France", 44.3, 30.4, 29.2, 40.4
+"England", "Hungary", 84.9, 73.3, 17.2, 9.5
+"England", "North Macedonia", 83.7, 71.7, 18.0, 10.3
+"England", "Finland", 82.3, 70.1, 18.5, 11.4
+"England", "Slovakia", 81.7, 69.4, 18.8, 11.8
+"England", "Ukraine", 83.5, 71.0, 18.8, 10.1
+"England", "Czech Republic", 81.4, 68.9, 19.2, 11.9
+"England", "Russia", 84.1, 71.8, 18.3, 9.8
+"England", "Scotland", 80.5, 67.5, 20.1, 12.4
+"England", "Wales", 81.7, 69.4, 18.7, 11.9
+"England", "Turkey", 80.0, 65.3, 23.0, 11.6
+"England", "Sweden", 79.0, 65.9, 20.5, 13.6
+"England", "Poland", 77.7, 64.4, 21.0, 14.5
+"England", "Austria", 75.3, 61.2, 22.7, 16.0
+"England", "Switzerland", 72.7, 58.5, 23.6, 18.0
+"England", "Croatia", 66.0, 51.1, 26.0, 22.9
+"England", "Denmark", 64.9, 50.0, 26.3, 23.7
+"England", "Netherlands", 63.0, 47.8, 27.3, 24.9
+"England", "Italy", 58.0, 42.1, 29.9, 28.1
+"England", "Belgium", 57.0, 42.4, 27.6, 30.0
+"England", "Germany", 53.5, 38.2, 29.6, 32.2
+"England", "Portugal", 54.2, 40.0, 27.3, 32.6
+"England", "Spain", 52.7, 37.7, 29.5, 32.9
+"England", "France", 47.5, 33.1, 29.4, 37.5
+"France", "Hungary", 86.8, 75.5, 16.4, 8.1
+"France", "North Macedonia", 86.3, 74.7, 17.0, 8.3
+"France", "Finland", 84.3, 72.3, 17.9, 9.8
+"France", "Slovakia", 82.6, 70.3, 18.7, 11.0
+"France", "Ukraine", 83.2, 69.7, 20.6, 9.7
+"France", "Czech Republic", 80.7, 67.6, 20.3, 12.1
+"France", "Russia", 82.7, 69.5, 20.2, 10.4
+"France", "Scotland", 77.1, 62.6, 23.2, 14.2
+"France", "Wales", 82.0, 69.5, 19.0, 11.5
+"France", "Turkey", 75.5, 59.6, 26.1, 14.4
+"France", "Sweden", 76.9, 62.6, 23.0, 14.4
+"France", "Poland", 75.5, 61.1, 23.3, 15.6
+"France", "Austria", 73.3, 57.8, 25.8, 16.5
+"France", "Switzerland", 72.5, 57.2, 25.5, 17.3
+"France", "Croatia", 66.0, 50.4, 27.5, 22.1
+"France", "Denmark", 61.0, 44.8, 29.7, 25.5
+"France", "Netherlands", 58.6, 42.6, 29.7, 27.6
+"France", "Italy", 59.9, 44.0, 29.4, 26.6
+"France", "Belgium", 55.5, 40.4, 28.8, 30.7
+"France", "Germany", 56.3, 40.6, 29.9, 29.5
+"France", "Portugal", 51.7, 36.6, 29.8, 33.6
+"France", "Spain", 55.7, 40.4, 29.2, 30.4
+"France", "England", 52.5, 37.5, 29.4, 33.1
